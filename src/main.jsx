@@ -14,7 +14,7 @@ import ChatCoverPage from './components/sections/chatUI/ChatCoverPage.jsx'
 
 import './index.css';
 import ChatRoom from './components/sections/chatUI/ChatRoom.jsx';
-import SignIn from './components/sections/signin/SignIn.jsx';
+import SignIn from './components/sections/signIn/SignIn.jsx';
 import SignUp from './components/sections/createAnAccount/SignUp.jsx';
 
 import store from './redux/store'
