@@ -55,7 +55,7 @@ export default function ChatRoom() {
         )}
       </div>
       <ChatRoomHeader />
-      <div className='grid grid-cols-2 grid-rows-1 w-full px-10 gap-10 mt-0 pt-0'>
+      <div className='flex flex-col md:grid md:grid-cols-2 md:grid-rows-1 md:w-full md:px-10 gap-10 mt-0 pt-0'>
         <div className='col-end-2 bg-blue-100 p-5 rounded-3xl shadow-xl'>
           <div className='w-full'>
             <h3 className='mb-4 text-lg font-semibold text-gray-900'>Comments</h3>
