@@ -104,7 +104,7 @@ const App = () => {
                               {item.name}
                             </a>
                           </MenuItem>
-                        )}
+                        ))}
                       </Menu.Items>
                     </Menu>
                 </div>
